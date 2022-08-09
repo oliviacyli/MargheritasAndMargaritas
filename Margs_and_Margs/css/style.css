@@ -19,22 +19,34 @@ figure {
 
 .homePageImage img{ 
     object-fit: cover;
-    margin-top: -85px;
-    margin-bottom: -65px;
+    
     width: 50%;
     height: auto;
 }
-
-
- /* figure.imageRow { 
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    height: auto;
-} */
 
 .imageRow img {
     object-fit: cover;
     width: 33%;
     height: auto;
+}
+
+.whatIsMAndM p {
+    float: left;
+    width: 50%;
+}
+
+.whatIsMAndM img {
+    float: right;
+    height: 500px;
+}
+
+
+.aboutTheOwner p {
+    float: right;
+    width: 50%;
+}
+
+.aboutTheOwner img {
+    float: left;
+    height: 500px;  
 }
