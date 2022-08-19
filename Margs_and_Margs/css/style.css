@@ -5,6 +5,10 @@
     color: green
 }
 
+.navbar-toggler {
+    border: none;
+}
+
 .bold {
     font-weight: bolder;
 }
