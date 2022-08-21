@@ -2,7 +2,19 @@
 
 * {
     font-family: 'Poppins';
-    color: green
+    color: #424242;
+}
+
+.accent1 {
+    color: #3E9800;
+}
+
+.accent2 {
+    color: #FF5200
+}
+
+.navbar-brand {
+    font-size: 25px;
 }
 
 .navbar-toggler {
@@ -13,7 +25,12 @@
     font-weight: bolder;
 }
 
-figure {
+#homePageImage img{
+    height: 400px;
+    object-fit: cover;
+}
+
+/* figure {
     margin: 0;
     display: flex;
     flex-direction: row;
@@ -53,4 +70,4 @@ figure {
 .aboutTheOwner img {
     float: left;
     height: 500px;  
-}
+} */
