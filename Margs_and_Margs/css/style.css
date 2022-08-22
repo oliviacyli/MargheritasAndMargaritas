@@ -22,8 +22,16 @@
 }
 
 footer {
-    height: 150px;
+    height: 110px;
     background-color: #D3EBBA;
+}
+
+footer a {
+     color: #000000;
+}
+
+footer a:hover {
+    color: #3E9800
 }
 
 /* figure {
